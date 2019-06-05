@@ -31,11 +31,11 @@ https://drive.google.com/file/d/1VbNDgHrEGhrC16JWgsu6ss6tH2MNi568/view?usp=shari
 ![](https://i.imgur.com/fqBYvM4.jpg)
 
 ## Visual effects with post-production software
-- 以下為影片1的後製，運用Adobe After effects所製作的。主要的後製內容為透過track純喫茶的表面，再套入皮卡丘發大財的影片。 
+以下為影片1的後製，運用Adobe After effects所製作的。主要的後製內容為透過track純喫茶的表面，再套入皮卡丘發大財的影片。 
 
 https://www.youtube.com/watch?v=-AAoWLrkbqI
 
-- 以下為影片2的後製，運用Adobe After effects所製作的。主要的後製內容為透過track人的手，在手上加上火焰，當手心打開時即有火焰產生，握緊手心火焰就會消失。 
+以下為影片2的後製，運用Adobe After effects所製作的。主要的後製內容為透過track人的手，在手上加上火焰，當手心打開時即有火焰產生，握緊手心火焰就會消失。 
 
 https://www.youtube.com/watch?v=JytstWUFkW4&feature=youtu.be
 
