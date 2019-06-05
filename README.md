@@ -46,6 +46,7 @@ https://www.youtube.com/watch?v=JytstWUFkW4&feature=youtu.be
 
 ## Insert a 3D model to the video
 
-以下影片2的後製為加了3D model(玫瑰花)的影片： 
+使用Adobe After Effect在原來有火焰特效的影片再加上了3D model(玫瑰花)：
 
-https://drive.google.com/file/d/11ussAE1-yJAEe9LMR5Lvy-P1_RT9yT_f/view?usp=sharing
+https://youtu.be/1ENvuGTh6_8
+
